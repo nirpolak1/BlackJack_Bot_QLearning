@@ -1,0 +1,9 @@
+C:\Users\Nir\source\repos\BlackJackBot.Utilities\bin\Debug\netstandard2.0\BlackJackBot.Utilities.deps.json
+C:\Users\Nir\source\repos\BlackJackBot.Utilities\bin\Debug\netstandard2.0\BlackJackBot.Utilities.dll
+C:\Users\Nir\source\repos\BlackJackBot.Utilities\bin\Debug\netstandard2.0\BlackJackBot.Utilities.pdb
+C:\Users\Nir\source\repos\BlackJackBot.Utilities\obj\Debug\netstandard2.0\BlackJackBot.Utilities.csprojAssemblyReference.cache
+C:\Users\Nir\source\repos\BlackJackBot.Utilities\obj\Debug\netstandard2.0\BlackJackBot.Utilities.AssemblyInfoInputs.cache
+C:\Users\Nir\source\repos\BlackJackBot.Utilities\obj\Debug\netstandard2.0\BlackJackBot.Utilities.AssemblyInfo.cs
+C:\Users\Nir\source\repos\BlackJackBot.Utilities\obj\Debug\netstandard2.0\BlackJackBot.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Nir\source\repos\BlackJackBot.Utilities\obj\Debug\netstandard2.0\BlackJackBot.Utilities.dll
+C:\Users\Nir\source\repos\BlackJackBot.Utilities\obj\Debug\netstandard2.0\BlackJackBot.Utilities.pdb

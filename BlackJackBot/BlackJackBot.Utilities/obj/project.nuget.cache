@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oz4iKf66Lw0NddFu1oCnTULoS24g95bmeSFmjIQfDSz8BKaCvnkH3lwP4uPOeJk/KrTjVhNE71eSwX+q+Sndow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nir\\source\\repos\\BlackJackBot.Utilities\\BlackJackBot.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nir\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nir\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
